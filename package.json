@@ -1,0 +1,14 @@
+{
+  "name": "constructors",
+  "version": "1.0.0",
+  "description": "constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "JPS",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
